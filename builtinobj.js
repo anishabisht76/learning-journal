@@ -1,3 +1,5 @@
+//Objects provided by JavaScript itself, such as Object, Array, String, Date, Math, and Promise.
+
 //date object
 let d = new Date();
 console.log(d.getDate());

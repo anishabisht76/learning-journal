@@ -1,3 +1,5 @@
+// A collection of key–value pairs used to store related data and functionality.
+
 function Is_Empty(obj){
     for(let keys in obj)
     {
